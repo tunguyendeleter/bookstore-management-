@@ -1,0 +1,9 @@
+852,Nguyen, Van A, Khu A
+211,Nguyen, Van B, Khu B
+332,Nguyen, Van C, Khu C
+564,Nguyen, Van D, Khu A
+138,Nguyen, Van E, Khu B
+255,Nguyen, Van F, Khu C
+465,Nguyen, Van G, Khu A
+465,Nguyen, Van H, Khu B
+220,Nguyen, Van P, Khu C

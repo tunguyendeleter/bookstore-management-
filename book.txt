@@ -1,0 +1,33 @@
+Doraemon,Fujiko Fujio,B2234,Shounen,33000,0
+Doraemon,Fujiko Fujio,B2214,Shounen,33000,0
+Doraemon,Fujiko Fujio,B3234,Shounen,33000,0
+Doraemon,Fujiko Fujio,B3334,Shounen,33000,0
+The Promised Neverland,Kaiu Shirai,B1224,Novel,69000,0
+The Promised Neverland,Kaiu Shirai,B1333,Novel,69000,0
+The Promised Neverland,Kaiu Shirai,B2224,Novel,69000,0
+The Promised Neverland,Kaiu Shirai,B4444,Novel,69000,0
+The Promised Neverland,Kaiu Shirai,B1214,Novel,69000,0
+The Promised Neverland,Kaiu Shirai,B6662,Novel,69000,0
+The Promised Neverland,Kaiu Shirai,B1514,Novel,69000,0
+The Promised Neverland,Kaiu Shirai,B2324,Novel,69000,0
+Harry Potter 1,J.K.Rowling,B1354,Horror,22000,0
+Harry Potter 1,J.K.Rowling,B5554,Horror,22000,0
+Harry Potter 1,J.K.Rowling,B1774,Horror,22000,0
+Harry Potter 1,J.K.Rowling,B8884,Horror,22000,0
+Harry Potter 2,J.K.Rowling,B5514,Horror,22000,0
+Harry Potter 2,J.K.Rowling,B5524,Horror,22000,0
+Harry Potter 2,J.K.Rowling,B7773,Horror,22000,0
+Alice In Wonderland,Lewis Carroll,B4343,Drama,32000,0
+Alice In Wonderland,Lewis Carroll,B4333,Drama,32000,0
+Alice In Wonderland,Lewis Carroll,B7676,Drama,32000,0
+Alice In Wonderland,Lewis Carroll,B1515,Drama,32000,0
+Alice In Wonderland,Lewis Carroll,B3636,Drama,32000,0
+Howl's Moving Castle,Diana Wynne Jones,B5985,Drama,70000,0
+Howl's Moving Castle,Diana Wynne Jones,B5585,Drama,70000,0
+Howl's Moving Castle,Diana Wynne Jones,B6625,Drama,70000,0
+C programing,HCMUTE,B9966,Language,20000,0
+C programing,HCMUTE,B1966,Language,20000,0
+Calculus 1,HCMUTE,B1966,Language,30000,0
+Calculus 1,HCMUTE,B5126,Language,30000,0
+Calculus 2,HCMUTE,B7872,Language,30000,0
+Calculus 3,HCMUTE,B3140,Language,30000,0
